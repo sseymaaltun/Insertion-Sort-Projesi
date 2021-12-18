@@ -6,12 +6,15 @@
 [2,27,16,22,18,6] (n-1)
 [2,6,16,22,18,27] (n-2)
 [2,6,16,18,22,27] (1)
+
 2.Big-O gösterimini yazınız.
-n(n+1)/2 => O(n²)
+n(n+1)/2 => O(n
+
 3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 Average case: 16,18
 Worst case: 27
 Best case: 2
+
 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Average case kapsamına girer.
 
