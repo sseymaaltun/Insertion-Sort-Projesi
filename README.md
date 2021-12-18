@@ -19,6 +19,7 @@ Best case: 2
 Average case kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
 1.adım = [7,3,5,8,2,9,4,15,6]
 
 2.adım = [2,3,5,8,7,9,4,15,6]
